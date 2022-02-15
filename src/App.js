@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="App">
-      <button onClick={() => speak({ text: "blend m heatohts" })}>ブレンドM1つ</button>
+      <button onClick={() => speak({ text: "ブレンドM1つ" })}>ブレンドM1つ</button>
     </div>
   );
 }
